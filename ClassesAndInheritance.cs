@@ -73,43 +73,35 @@ namespace HousePropertyApplication
         
         public double getSquareMeters(){
             return squareMeters;
-            
         }
         
         //Rent
         public void setRent( double rent ){
             this.rent = rent;
-            
         }
         public double getRent(){
             return rent;
-            
         }
         
         //Location
         public void setLocation( String location ){
             this.location = location;
-            
         }
         public String getLocation(){
             return location;
-            
         }
         
         //familyName
         public void setFamilyName( String familyName ){
             this.familyName = familyName;
-            
         }
         public string getFamilyName(){
             return familyName;
-            
         }
         
         //rent
         public void setRented( bool status ){
             this.rented = status;
-            
         }
         public string isRented(){
             if(rented){
@@ -135,8 +127,6 @@ namespace HousePropertyApplication
     /**************/
     /*Inheritance*/
     /*************/
-    
-    
     
     public class Person
     {
@@ -199,29 +189,4 @@ namespace HousePropertyApplication
     }
     
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
