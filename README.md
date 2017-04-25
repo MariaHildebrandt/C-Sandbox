@@ -1,7 +1,7 @@
 # C-Sharp-Sandbox
 Repository for C# Basics
 
-##HousePropertyApplication
+## HousePropertyApplication.cs
 
 - Classes and Inheritance (Constructors, Destructors, Getter and Setters)
 - Arrays with Objects
