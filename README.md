@@ -25,3 +25,8 @@ Landlord can create and manage Houses and Residents, Employees
 ### GenericArray.cs
 
 - contains class for generic arrays to instantiate arrays of any type (int, char, String, bool...)
+
+### Personal Notes
+
+- <b>namespace</b> ->keep one set of names separate from another. The class names declared in one namespace do not conflict with the same class names declared in another.
+- One can define one namespace inside another namespace 
