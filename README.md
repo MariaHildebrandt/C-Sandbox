@@ -17,3 +17,7 @@ Landlord can create and manage Houses and Residents, Employees
 - Class Bird inherits from IAnimal Interface and IComparable Interface
 - Generic List (Bird Objects)
 - forEach-Loop
+
+### CarStruct.cs
+
+- Struct for Car Objects
