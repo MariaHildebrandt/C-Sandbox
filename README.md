@@ -21,3 +21,7 @@ Landlord can create and manage Houses and Residents, Employees
 ### CarStruct.cs
 
 - Struct for Car Objects
+
+### GenericArray.cs
+
+- contains class for generic arrays to instantiate arrays of any type (int, char, String, bool...)
