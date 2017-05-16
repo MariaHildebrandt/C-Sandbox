@@ -39,6 +39,9 @@ Landlord can create and manage Houses and Residents, Employees
 - first thread to be executed: Main Thread (CurrentThread Property)
 - following snippet will print out: This is MainThread
 
+- Usage:
+- Multithreading allows the user to continue with using the application without waiting for the app to complete prior actions (for example sending a mail)
+
 ```bash
 using System;
 using System.Threading;
